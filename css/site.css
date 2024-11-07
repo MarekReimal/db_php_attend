@@ -1,0 +1,10 @@
+.header {
+    display: flex;            /* Paigutab elemendid horisontaalselt */
+    align-items: center;       /* Joondab elemendid vertikaalselt keskele */
+    justify-content: center;  /* Võib kasutada, kui tahate, et nad oleksid teineteisest kaugemal */
+    gap: 50px;
+}
+
+.bbbtn {
+    margin-left: 20px;         /* Lisa nuppule vajadusel vaheline ruum */
+}
